@@ -1,0 +1,5 @@
+Pillow
+timm
+torch
+requests
+PySide6
