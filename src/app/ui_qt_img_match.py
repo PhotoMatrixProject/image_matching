@@ -1,7 +1,7 @@
 import sys
 import os
 from PySide6 import QtCore, QtWidgets, QtGui
-import manager_img_match2 as manager
+import manager_img_match as manager
 import shutil
 from pathlib import Path
 

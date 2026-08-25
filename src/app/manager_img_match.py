@@ -4,7 +4,7 @@ import time
 import os
 import uuid
 
-import classify_img_match2 as ct
+import classify_img_match as ct
 
 
 last_request_time = 0.0
