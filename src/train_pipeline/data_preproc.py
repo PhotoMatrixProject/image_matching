@@ -1,7 +1,6 @@
 import random
 import shutil
 
-from anyio import Path
 from pathlib import Path
 
 
