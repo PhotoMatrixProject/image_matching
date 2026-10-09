@@ -1,4 +1,4 @@
 opencv-python
 Pillow
 timm
-
+torchvision
